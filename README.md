@@ -2,60 +2,51 @@
 
 Creator: [Justin Mazon](https://github.com/JustintheBox)
 
+## Project Description
+  * Fully automated nerf gun turret that will fire upon face detection using OpenCV. 
+  * Languages/tools/technologies used:
+    * C
+    * Python
+    * OpenCV
+    * Arduino UNO
+    * Git/Github for VCS and productivity management
+
 https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-88c6-258fce4be335.mp4
 
+    
+## Hardware Components
+* Computing
+  * Laptop
+  * Arduino UNO
+* Analog Inputs
+  * Logitech Webcam
+  * IR Receiver and Remote
+  * Joystick
+  * Potentiometer
+* Digital Outputs
+  * (x2) MG996R Servo Motors
+  * (x3) LEDs
+  * 5V Relay
 
-## Project Description
-  * We all like gaming, and chess is a great game. It has a low skill floor and a very high skill ceiling: each piece is governed by simple rules, but their interactions come together to form a timeless experience with unrivaled depth.
-  * What languages/tools/technologies do you plan to use? (This list may change over the course of the project):
-    * C++
-    * Git/Github for VCS and productivity management
-    * Grid GUI
-  * What will be the input/output of your project? What are the features that the project provides?
-    * Input: The piece a player would like to use, the program will provide valid positions for that piece to move to
-    * Output: The piece will move to the new position, the opponent's chess piece will react appropriately (if taken)
-  * Features:
-    * Graphical representation of board and pieces
-    * Board updates in real time to reflect game-state
-    * 2-player support, with potential of a CPU opponent for single-player
-    * King, Queen, Bishop, Knight, Rook, Pawn, all programmed with their appropriate behaviors
+<img src="https://user-images.githubusercontent.com/83481452/205171275-f0455999-c66c-449a-a853-1e997c5dd0c6.jpg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/83481452/205171283-12a78e34-b119-4305-b275-7c2ba47f16b5.jpg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/83481452/205171288-a5a0afc5-5ddf-4baf-8820-95db6873afeb.jpg" width="800" height="500">
+
 
 ## Manual Mode
- > ![Screenshot 2022-02-08 221550](https://user-images.githubusercontent.com/97067245/153135246-06b265cf-1af4-41b9-9b78-fa3437d49dbb.png)
  > Classes/Modules:
  > * Player
  >   * 2 players
  
  ## Wireless Mode
- > ![Screenshot 2022-02-08 221550](https://user-images.githubusercontent.com/97067245/153135246-06b265cf-1af4-41b9-9b78-fa3437d49dbb.png)
  > Classes/Modules:
  > * Player
  >   * 2 players
  
  ##  Automatic Mode
- > ![Screenshot 2022-02-08 221550](https://user-images.githubusercontent.com/97067245/153135246-06b265cf-1af4-41b9-9b78-fa3437d49dbb.png)
  > Classes/Modules:
  > * Player
  >   * 2 players
 
- 
 
-
- ## Screenshots
- Game initialized:
- 
- ![chess 00](https://user-images.githubusercontent.com/97067245/157372701-473d2a9a-3afa-4cf5-83ba-6a63824f1f32.png)
- 
- A few turns in:
- 
- ![chess 01](https://user-images.githubusercontent.com/97067245/157372745-1b957fd2-31a6-4703-a351-c0dbecdd31c3.png)
- 
- White commited REGICIDE:
- 
- ![chess 02](https://user-images.githubusercontent.com/97067245/157372798-022f25ff-675f-48ec-9743-56ed5840a890.png)
- 
-
-
-
- 
 
