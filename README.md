@@ -2,7 +2,8 @@
 
 Creator: [Justin Mazon](https://github.com/JustintheBox)
 
-https://user-images.githubusercontent.com/83481452/205169779-f8a7b3f7-9090-4590-91e8-1d0572d798c5.mp4
+https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-88c6-258fce4be335.mp4
+
 
 ## Project Description
   * We all like gaming, and chess is a great game. It has a low skill floor and a very high skill ceiling: each piece is governed by simple rules, but their interactions come together to form a timeless experience with unrivaled depth.
