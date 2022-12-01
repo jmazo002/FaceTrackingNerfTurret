@@ -11,6 +11,7 @@ Creator: [Justin Mazon](https://github.com/JustintheBox)
     * Arduino UNO
     * Git/Github for VCS and productivity management
 <img src="https://user-images.githubusercontent.com/83481452/205171275-f0455999-c66c-449a-a853-1e997c5dd0c6.jpg" width="500" height="500">
+
 https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-88c6-258fce4be335.mp4
 
 ## Manual Mode
