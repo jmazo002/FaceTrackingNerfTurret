@@ -5,7 +5,7 @@ Creator: [Justin Mazon](https://github.com/JustintheBox)
 ## Project Description
   * Fully automated nerf gun turret that will fire upon face detection using OpenCV. 
   * Languages/tools/technologies used:
-    * C
+    * C++
     * Python
     * OpenCV
     * Arduino UNO
