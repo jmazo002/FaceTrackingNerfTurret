@@ -1,6 +1,7 @@
 # Face Tracking Nerf Turret
 
 Creator: [Justin Mazon](https://github.com/JustintheBox)
+
 https://user-images.githubusercontent.com/83481452/205169779-f8a7b3f7-9090-4590-91e8-1d0572d798c5.mp4
 
 ## Project Description
