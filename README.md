@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-
 ## Hardware Components
 * Computing
   * Laptop
-  * Arduino UNO
+  * Elegoo UNO R3 microcontroller
 * Analog Inputs
   * Logitech Webcam
   * IR Receiver and Remote
@@ -32,21 +32,32 @@ https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-
 <img src="https://user-images.githubusercontent.com/83481452/205171283-12a78e34-b119-4305-b275-7c2ba47f16b5.jpg" width="500" height="500">
 <img src="https://user-images.githubusercontent.com/83481452/205171288-a5a0afc5-5ddf-4baf-8820-95db6873afeb.jpg" width="800" height="500">
 
-
 ## Manual Mode
- > Classes/Modules:
- > * Player
- >   * 2 players
+ - User controls Nerf Turret using joystick only (indicated by the blue LED)
+ - Left on the joystick moves the nerf turret left on the x-plane
+ - Left on the joystick moves the nerf turret left on the x-plane
+ - Right on the joystick moves the nerf turret right on the x-plane
+ - Down on the joystick moves the nerf turret up on the y-plane
+ - Up on the joystick moves the nerf turret down on the y-plane
+ - A press of the joystick button shoots the nerf gun
  
  ## Wireless Mode
- > Classes/Modules:
- > * Player
- >   * 2 players
+ - User controls Nerf Turret using IR receiver and remote only (indicated by the yellow LED)
+ - Left on the remote moves the nerf turret left on the x-plane
+ - Left on the remote moves the nerf turret left on the x-plane
+ - Right on the remote moves the nerf turret right on the x-plane
+ - Down on the remote moves the nerf turret up on the y-plane
+ - Up on the remote moves the nerf turret down on the y-plane
+ - A press of the middle button shoots the nerf gun
  
  ##  Automatic Mode
- > Classes/Modules:
- > * Player
- >   * 2 players
+ - No user control instead nerf gun points at face from webcam video (indicated by the white LED)
+ - Arduino recievers coordinates from Python script on laptop
+ - If face x is greater than middle then move arduino to the right
+ - If face x is less than middle then move arduino to the left
+ - If face y is greater than middle then move arduino down
+ - If face y is less than middle then move arduino up
+ - If face coordinates is within 50 pixels of the middle of video for at least 1.5 seconds, then shoot
 
 
 
