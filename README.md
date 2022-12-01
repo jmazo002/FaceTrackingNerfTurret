@@ -2,8 +2,8 @@
 
 Creator: [Justin Mazon](https://github.com/JustintheBox)
 
-[![Face Tracking Nerf Turret](https://img.youtube.com/vi/0kSbqZipghE)]https://www.youtube.com/watch?v=0kSbqZipghE&ab_channel=JustinMazon)
-
+[![Face Tracking Nerf Turret](https://img.youtube.com/vi/0kSbqZipghE)](https://www.youtube.com/watch?v=0kSbqZipghE&ab_channel=JustinMazon)
+<iframe width="1268" height="713" src="https://www.youtube.com/embed/0kSbqZipghE" title="Face Tracking Nerf Turret using Open CV and Arduino (Final Project - CS 120B)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Project Description
   * We all like gaming, and chess is a great game. It has a low skill floor and a very high skill ceiling: each piece is governed by simple rules, but their interactions come together to form a timeless experience with unrivaled depth.
