@@ -10,7 +10,7 @@ Creator: [Justin Mazon](https://github.com/JustintheBox)
     * OpenCV
     * Arduino UNO
     * Git/Github for VCS and productivity management
-
+<img src="https://user-images.githubusercontent.com/83481452/205171275-f0455999-c66c-449a-a853-1e997c5dd0c6.jpg" width="500" height="500">
 https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-88c6-258fce4be335.mp4
 
 ## Manual Mode
@@ -54,10 +54,7 @@ https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-
   * (x3) LEDs
   * 5V Relay
 
-<img src="https://user-images.githubusercontent.com/83481452/205171275-f0455999-c66c-449a-a853-1e997c5dd0c6.jpg" width="500" height="500">
 <img src="https://user-images.githubusercontent.com/83481452/205171283-12a78e34-b119-4305-b275-7c2ba47f16b5.jpg" width="500" height="500">
 <img src="https://user-images.githubusercontent.com/83481452/205171288-a5a0afc5-5ddf-4baf-8820-95db6873afeb.jpg" width="800" height="500">
-
-
 
 
