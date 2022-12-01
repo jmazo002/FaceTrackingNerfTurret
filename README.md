@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/83481452/205170020-60f8b6ae-90d7-4aab-
     
 ## Hardware Components
 * Computing
-  * Laptop
+  * Laptop (for automatic mode only)
   * Elegoo UNO R3 microcontroller
 * Analog Inputs
   * Logitech Webcam
