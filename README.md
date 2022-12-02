@@ -2,7 +2,7 @@
 
 Creator: [Justin Mazon](https://github.com/JustintheBox)
 
-Youtube Link: https://www.youtube.com/watch?v=0kSbqZipghE&ab_channel=JustinMazon
+Demo Link w/ explaination: https://www.youtube.com/watch?v=0kSbqZipghE&ab_channel=JustinMazon
 
 ## Project Description
   * Fully automated nerf gun turret that will fire upon face detection using OpenCV. 
